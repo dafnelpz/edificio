@@ -1,0 +1,41 @@
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.chimenea {
+	height: 30px;
+	width: 70px;
+	background: #bf6c05;
+}
+
+.container {
+	position: absolute;
+	bottom: 0px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.row {
+	height: 20vw;
+	width: 80vw;
+	background-color: yellow;
+	float: left;
+}
+
+.bloque {
+	height: 20vw;
+	width: 20vw;
+	background-color: orange;
+	float: left;
+	border: 20px;
+	border-color: pink;
+}
+
+.pasto {
+	background-color: green;
+	height: 20px;
+	bottom: 0px;
+	width: 100%;
+	position: absolute;
+}
